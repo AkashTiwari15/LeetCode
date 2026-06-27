@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AkashTiwari15/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AkashTiwari15/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AkashTiwari15/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0766-toeplitz-matrix](https://github.com/AkashTiwari15/LeetCode/tree/master/0766-toeplitz-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AkashTiwari15/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AkashTiwari15/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AkashTiwari15/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0766-toeplitz-matrix](https://github.com/AkashTiwari15/LeetCode/tree/master/0766-toeplitz-matrix) |
 ## Math
 |  |
 | ------- |
