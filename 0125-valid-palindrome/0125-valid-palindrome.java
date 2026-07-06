@@ -1,4 +1,12 @@
 class Solution {
+    public boolean isLetterOrDigit1(char ch) {
+    if ((ch >= 'a' && ch <= 'z') ||
+        (ch >= 'A' && ch <= 'Z') ||
+        (ch >= '0' && ch <= '9')) {
+        return true;
+    }
+    return false;
+}
     public boolean isPalindrome(String s) {
         StringBuilder ans = new StringBuilder();
         StringBuilder ans2 = new StringBuilder();
@@ -6,7 +14,7 @@ class Solution {
         int n = s.length();
         for (int i = 0; i < n; i++) {
             char ch = s.charAt(i);
-            if (Character.isLetterOrDigit(ch)) {
+            if (isLetterOrDigit1(ch)) {
                 ans.append(Character.toLowerCase(ch));
             }
         }
