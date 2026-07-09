@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AkashTiwari15/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AkashTiwari15/LeetCode/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/AkashTiwari15/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -76,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AkashTiwari15/LeetCode/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/AkashTiwari15/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/AkashTiwari15/LeetCode/tree/master/1528-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/AkashTiwari15/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkashTiwari15/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
