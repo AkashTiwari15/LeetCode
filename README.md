@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AkashTiwari15/LeetCode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/AkashTiwari15/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/AkashTiwari15/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1603-design-parking-system](https://github.com/AkashTiwari15/LeetCode/tree/master/1603-design-parking-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/AkashTiwari15/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
+| [1603-design-parking-system](https://github.com/AkashTiwari15/LeetCode/tree/master/1603-design-parking-system) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AkashTiwari15/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1603-design-parking-system](https://github.com/AkashTiwari15/LeetCode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
