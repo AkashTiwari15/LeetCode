@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AkashTiwari15/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/AkashTiwari15/LeetCode/tree/master/1528-shuffle-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkashTiwari15/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AkashTiwari15/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkashTiwari15/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AkashTiwari15/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
