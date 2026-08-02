@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AkashTiwari15/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/AkashTiwari15/LeetCode/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/AkashTiwari15/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkashTiwari15/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/AkashTiwari15/LeetCode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/AkashTiwari15/LeetCode/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/AkashTiwari15/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/AkashTiwari15/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/AkashTiwari15/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/AkashTiwari15/LeetCode/tree/master/0925-long-pressed-name) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/AkashTiwari15/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
