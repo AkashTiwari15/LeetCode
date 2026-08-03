@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AkashTiwari15/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/AkashTiwari15/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/AkashTiwari15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkashTiwari15/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AkashTiwari15/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/AkashTiwari15/LeetCode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/AkashTiwari15/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkashTiwari15/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AkashTiwari15/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkashTiwari15/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
