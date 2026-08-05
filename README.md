@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AkashTiwari15/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AkashTiwari15/LeetCode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/AkashTiwari15/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/AkashTiwari15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/AkashTiwari15/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AkashTiwari15/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AkashTiwari15/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AkashTiwari15/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/AkashTiwari15/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AkashTiwari15/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/AkashTiwari15/LeetCode/tree/master/0925-long-pressed-name) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkashTiwari15/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AkashTiwari15/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
 | ------- |
@@ -231,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/AkashTiwari15/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/AkashTiwari15/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0619-biggest-single-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
