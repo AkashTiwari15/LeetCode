@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AkashTiwari15/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/AkashTiwari15/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AkashTiwari15/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AkashTiwari15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkashTiwari15/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AkashTiwari15/LeetCode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/AkashTiwari15/LeetCode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/AkashTiwari15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AkashTiwari15/LeetCode/tree/master/0877-stone-game) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AkashTiwari15/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AkashTiwari15/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AkashTiwari15/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/AkashTiwari15/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AkashTiwari15/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AkashTiwari15/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
