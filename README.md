@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AkashTiwari15/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AkashTiwari15/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AkashTiwari15/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AkashTiwari15/LeetCode/tree/master/0217-contains-duplicate) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/AkashTiwari15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AkashTiwari15/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AkashTiwari15/LeetCode/tree/master/1406-stone-game-iii) |
