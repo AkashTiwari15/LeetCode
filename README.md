@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/AkashTiwari15/LeetCode/tree/master/1528-shuffle-string) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkashTiwari15/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/AkashTiwari15/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AkashTiwari15/LeetCode/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkashTiwari15/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/AkashTiwari15/LeetCode/tree/master/1406-stone-game-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkashTiwari15/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
