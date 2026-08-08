@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AkashTiwari15/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkashTiwari15/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AkashTiwari15/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/AkashTiwari15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1408-string-matching-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/AkashTiwari15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AkashTiwari15/LeetCode/tree/master/0877-stone-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkashTiwari15/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/AkashTiwari15/LeetCode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkashTiwari15/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
