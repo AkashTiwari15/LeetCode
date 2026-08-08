@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/AkashTiwari15/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/AkashTiwari15/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AkashTiwari15/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/AkashTiwari15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AkashTiwari15/LeetCode/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkashTiwari15/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/AkashTiwari15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AkashTiwari15/LeetCode/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -265,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AkashTiwari15/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
