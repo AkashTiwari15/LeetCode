@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AkashTiwari15/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AkashTiwari15/LeetCode/tree/master/1051-height-checker) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AkashTiwari15/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AkashTiwari15/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AkashTiwari15/LeetCode/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AkashTiwari15/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AkashTiwari15/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/AkashTiwari15/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
 | [1603-design-parking-system](https://github.com/AkashTiwari15/LeetCode/tree/master/1603-design-parking-system) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Combinatorics
 |  |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AkashTiwari15/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -303,4 +308,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AkashTiwari15/LeetCode/tree/master/1510-stone-game-iv) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
