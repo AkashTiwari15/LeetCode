@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/AkashTiwari15/LeetCode/tree/master/1528-shuffle-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkashTiwari15/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AkashTiwari15/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkashTiwari15/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AkashTiwari15/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/AkashTiwari15/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkashTiwari15/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AkashTiwari15/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
