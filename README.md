@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AkashTiwari15/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AkashTiwari15/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1122-relative-sort-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkashTiwari15/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkashTiwari15/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/AkashTiwari15/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
