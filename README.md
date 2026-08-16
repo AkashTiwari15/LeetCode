@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AkashTiwari15/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/AkashTiwari15/LeetCode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/AkashTiwari15/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0525-contiguous-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0661-image-smoother](https://github.com/AkashTiwari15/LeetCode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/AkashTiwari15/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AkashTiwari15/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AkashTiwari15/LeetCode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkashTiwari15/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AkashTiwari15/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashTiwari15/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/AkashTiwari15/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Greedy
