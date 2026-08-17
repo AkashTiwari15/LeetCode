@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/AkashTiwari15/LeetCode/tree/master/1528-shuffle-string) |
+| [1563-stone-game-v](https://github.com/AkashTiwari15/LeetCode/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkashTiwari15/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AkashTiwari15/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AkashTiwari15/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AkashTiwari15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AkashTiwari15/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AkashTiwari15/LeetCode/tree/master/1563-stone-game-v) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AkashTiwari15/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AkashTiwari15/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AkashTiwari15/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkashTiwari15/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/AkashTiwari15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AkashTiwari15/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AkashTiwari15/LeetCode/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkashTiwari15/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AkashTiwari15/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AkashTiwari15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AkashTiwari15/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AkashTiwari15/LeetCode/tree/master/1563-stone-game-v) |
 ## Bit Manipulation
 |  |
 | ------- |
