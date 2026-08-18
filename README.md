@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AkashTiwari15/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/AkashTiwari15/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/AkashTiwari15/LeetCode/tree/master/0925-long-pressed-name) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkashTiwari15/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/AkashTiwari15/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/AkashTiwari15/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AkashTiwari15/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AkashTiwari15/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkashTiwari15/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Quicksort
 |  |
 | ------- |
