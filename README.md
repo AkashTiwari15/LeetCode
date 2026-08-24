@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/AkashTiwari15/LeetCode/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/AkashTiwari15/LeetCode/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/AkashTiwari15/LeetCode/tree/master/1872-stone-game-viii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkashTiwari15/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AkashTiwari15/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkashTiwari15/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AkashTiwari15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AkashTiwari15/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AkashTiwari15/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AkashTiwari15/LeetCode/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AkashTiwari15/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AkashTiwari15/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AkashTiwari15/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AkashTiwari15/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AkashTiwari15/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1872-stone-game-viii](https://github.com/AkashTiwari15/LeetCode/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AkashTiwari15/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AkashTiwari15/LeetCode/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkashTiwari15/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/AkashTiwari15/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkashTiwari15/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AkashTiwari15/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AkashTiwari15/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AkashTiwari15/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AkashTiwari15/LeetCode/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -357,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AkashTiwari15/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AkashTiwari15/LeetCode/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -369,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AkashTiwari15/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AkashTiwari15/LeetCode/tree/master/1872-stone-game-viii) |
 ## Merge Sort
 |  |
 | ------- |
